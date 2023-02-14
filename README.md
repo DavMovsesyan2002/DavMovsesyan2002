@@ -1,9 +1,4 @@
-### <div align="center">
-<!--   Hi 👋, I'm David Movsesyan,  -->
-<!--   A Front-End Developer 👨‍💻</div>   -->
-  A full-stack developer 👨‍💻 since 2020
-  </div>
-  
+### <div align="center">Hi 👋, A Front-End Developer 👨‍💻</div>  
 
 <div align="right">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="150" width="150" />
