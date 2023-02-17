@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/STA-Development/evaluation)  
   
 
-- ✉️ How to reach me david.movsesyan2002@gmail.com  
+<!-- - ✉️ How to reach me david.movsesyan2002@gmail.com   -->
   
 
 - ⚡ Fun fact: NASA still uses programs from the 70s in their spacecraft  
