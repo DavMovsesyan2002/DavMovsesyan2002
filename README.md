@@ -53,8 +53,4 @@ I'm always looking for new challenges and opportunities to improve my skills and
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavMovsesyan2002&hide_border=true&layout=compact&hide_progress=true" align="center" /></div>  
+<br/>   
