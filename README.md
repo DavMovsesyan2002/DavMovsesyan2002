@@ -10,7 +10,6 @@ Hey 👋, I'm a Front-End Developer 👨‍💻 with over 3 years of experience 
 I'm always looking for new challenges and opportunities to improve my skills and learn new things. I have experience working with popular front-end libraries such as Material-UI (MUI), Tailwind CSS, and Redux, and have developed several projects using React Native for mobile app development.
 
 <!-- Check out my Github repositories to see some of my work, including [Evaluation](https://github.com/STA-Development/evaluation), [BEP](https://github.com/STA-Development/BEP_FE), and [PCP](https://github.com/STA-Development/pcp-fe). -->
-
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/STA-Development/evaluation)   -->
 <!-- - ✉️ How to reach me david.movsesyan2002@gmail.com   -->
 <!-- - ⚡ Fun fact: NASA still uses programs from the 70s in their spacecraft   -->
@@ -68,6 +67,3 @@ I'm always looking for new challenges and opportunities to improve my skills and
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
