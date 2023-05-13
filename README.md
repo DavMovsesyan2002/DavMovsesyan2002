@@ -1,17 +1,19 @@
-### <div align="center">Hi 👋, A Front-End Developer 👨‍💻</div>  
+<!-- ### <div align="center">Hi 👋, A Front-End Developer 👨‍💻</div>   -->
 
 <div align="right">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="150" width="150" />
 </div>  
   
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/STA-Development/evaluation)  
   
+Hi 👋, I'm a passionate Front-End Developer 👨‍💻 with over 3 years of experience in developing responsive and interactive web applications using modern web technologies such as React, Typescript, Javascript, HTML, and CSS.
 
+I'm always looking for new challenges and opportunities to improve my skills and learn new things. I have experience working with popular front-end libraries such as Material-UI (MUI), Tailwind CSS, and Redux, and have developed several projects using React Native for mobile app development.
+
+Check out my Github repositories to see some of my work, including [Evaluation](https://github.com/STA-Development/evaluation), [BEP](https://github.com/STA-Development/BEP_FE), and [PCP](https://github.com/STA-Development/pcp-fe). Feel free to reach out if you have any questions or want to collaborate on a project.  
+
+<!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/STA-Development/evaluation)   -->
 <!-- - ✉️ How to reach me david.movsesyan2002@gmail.com   -->
-  
-
-- ⚡ Fun fact: NASA still uses programs from the 70s in their spacecraft  
+<!-- - ⚡ Fun fact: NASA still uses programs from the 70s in their spacecraft   -->
   
 
 <br/>  
