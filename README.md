@@ -7,7 +7,7 @@
   
 Hey 👋, I'm a Front-End Developer 👨‍💻 with over 3 years of experience in developing responsive and interactive web applications using modern web technologies such as React, Typescript, Javascript, HTML, and CSS.
 
-I'm always looking for new challenges and opportunities to improve my skills and learn new things. I have experience working with popular front-end libraries such as Material-UI (MUI), Tailwind CSS, and Redux, and have developed several projects using React Native for mobile app development.
+<!-- I'm always looking for new challenges and opportunities to improve my skills and learn new things. I have experience working with popular front-end libraries such as Material-UI (MUI), Tailwind CSS, and Redux, and have developed several projects using React Native for mobile app development. -->
 
 <!-- Check out my Github repositories to see some of my work, including [Evaluation](https://github.com/STA-Development/evaluation), [BEP](https://github.com/STA-Development/BEP_FE), and [PCP](https://github.com/STA-Development/pcp-fe). -->
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/STA-Development/evaluation)   -->
